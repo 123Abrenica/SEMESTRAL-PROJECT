@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1714920726 source:c:\users\acer\onedrive\desktop\code blocks\sem project dsa music browsing and browsing history\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<cstdlib>
+	"FUNCTIONS.h"
+
+1714920726 source:c:\users\acer\onedrive\desktop\code blocks\sem project dsa music browsing and browsing history\functions.cpp
+	<iostream>
+	<string>
+	<stack>
+	<cstdlib>
+	"FUNCTIONS.h"
+
+1714920726 c:\users\acer\onedrive\desktop\code blocks\sem project dsa music browsing and browsing history\functions.h
+
